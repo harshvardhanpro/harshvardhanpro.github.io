@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["CS Student at Thapar University.","I love Coding.",  "I live in Patiala.","I like Playing Football.","I like Solving Problems."],    
+            strings: ["SDE II at Samsung Bangalore","I love Coding & Memes",  "I live in Bangalore."],    
             /* You can change the home section typing text from
 	             here and do not use "&" use "and" */
             typeSpeed: 40
